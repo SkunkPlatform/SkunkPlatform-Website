@@ -18,6 +18,6 @@ Visit the official website: [SkunkPlatform - Official](https://skunkplatform.net
 
 ## Real Name
 The Real Name of SkunkPlatform is Leonel Joel. A Programmer and Poster
-You can Learn More Information about the SkunkPlatform developed to Leonel Joel: [The SkunkPlatform's Real Name](https://skunkplatform.netlify.app/real-name)
+You can Learn More Information about the SkunkPlatform developed to Leonel Joel: [The SkunkPlatform's Real Name](https://skunkplatform.netlify.app/redirect?q=/real-name)
 
 © 2024 SkunkPlatform. Visit the website for more features and updates.
